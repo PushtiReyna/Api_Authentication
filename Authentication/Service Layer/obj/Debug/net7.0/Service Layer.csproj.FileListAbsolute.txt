@@ -1,0 +1,21 @@
+D:\project\Authentication\Service Layer\obj\Debug\net7.0\Service Layer.csproj.AssemblyReference.cache
+D:\project\Authentication\Service Layer\obj\Debug\net7.0\Service Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Authentication\Service Layer\obj\Debug\net7.0\Service Layer.AssemblyInfoInputs.cache
+D:\project\Authentication\Service Layer\obj\Debug\net7.0\Service Layer.AssemblyInfo.cs
+D:\project\Authentication\Service Layer\obj\Debug\net7.0\Service Layer.csproj.CoreCompileInputs.cache
+D:\project\Authentication\Service Layer\bin\Debug\net7.0\Service Layer.deps.json
+D:\project\Authentication\Service Layer\bin\Debug\net7.0\Service Layer.dll
+D:\project\Authentication\Service Layer\bin\Debug\net7.0\Service Layer.pdb
+D:\project\Authentication\Service Layer\bin\Debug\net7.0\Business Layer.dll
+D:\project\Authentication\Service Layer\bin\Debug\net7.0\Data Layer.dll
+D:\project\Authentication\Service Layer\bin\Debug\net7.0\DTO.dll
+D:\project\Authentication\Service Layer\bin\Debug\net7.0\Helper.dll
+D:\project\Authentication\Service Layer\bin\Debug\net7.0\Business Layer.pdb
+D:\project\Authentication\Service Layer\bin\Debug\net7.0\DTO.pdb
+D:\project\Authentication\Service Layer\bin\Debug\net7.0\Helper.pdb
+D:\project\Authentication\Service Layer\bin\Debug\net7.0\Data Layer.pdb
+D:\project\Authentication\Service Layer\obj\Debug\net7.0\Service Layer.csproj.CopyComplete
+D:\project\Authentication\Service Layer\obj\Debug\net7.0\Service Layer.dll
+D:\project\Authentication\Service Layer\obj\Debug\net7.0\refint\Service Layer.dll
+D:\project\Authentication\Service Layer\obj\Debug\net7.0\Service Layer.pdb
+D:\project\Authentication\Service Layer\obj\Debug\net7.0\ref\Service Layer.dll

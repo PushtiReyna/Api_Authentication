@@ -1,0 +1,11 @@
+D:\project\Authentication\Helper\bin\Debug\net7.0\Helper.deps.json
+D:\project\Authentication\Helper\bin\Debug\net7.0\Helper.dll
+D:\project\Authentication\Helper\bin\Debug\net7.0\Helper.pdb
+D:\project\Authentication\Helper\obj\Debug\net7.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Authentication\Helper\obj\Debug\net7.0\Helper.AssemblyInfoInputs.cache
+D:\project\Authentication\Helper\obj\Debug\net7.0\Helper.AssemblyInfo.cs
+D:\project\Authentication\Helper\obj\Debug\net7.0\Helper.csproj.CoreCompileInputs.cache
+D:\project\Authentication\Helper\obj\Debug\net7.0\Helper.dll
+D:\project\Authentication\Helper\obj\Debug\net7.0\refint\Helper.dll
+D:\project\Authentication\Helper\obj\Debug\net7.0\Helper.pdb
+D:\project\Authentication\Helper\obj\Debug\net7.0\ref\Helper.dll

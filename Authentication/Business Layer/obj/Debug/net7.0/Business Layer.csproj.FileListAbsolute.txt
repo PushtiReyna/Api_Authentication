@@ -1,0 +1,19 @@
+D:\project\Authentication\Business Layer\bin\Debug\net7.0\Business Layer.deps.json
+D:\project\Authentication\Business Layer\bin\Debug\net7.0\Business Layer.dll
+D:\project\Authentication\Business Layer\bin\Debug\net7.0\Business Layer.pdb
+D:\project\Authentication\Business Layer\bin\Debug\net7.0\Data Layer.dll
+D:\project\Authentication\Business Layer\bin\Debug\net7.0\DTO.dll
+D:\project\Authentication\Business Layer\bin\Debug\net7.0\Helper.dll
+D:\project\Authentication\Business Layer\bin\Debug\net7.0\Data Layer.pdb
+D:\project\Authentication\Business Layer\bin\Debug\net7.0\DTO.pdb
+D:\project\Authentication\Business Layer\bin\Debug\net7.0\Helper.pdb
+D:\project\Authentication\Business Layer\obj\Debug\net7.0\Business Layer.csproj.AssemblyReference.cache
+D:\project\Authentication\Business Layer\obj\Debug\net7.0\Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Authentication\Business Layer\obj\Debug\net7.0\Business Layer.AssemblyInfoInputs.cache
+D:\project\Authentication\Business Layer\obj\Debug\net7.0\Business Layer.AssemblyInfo.cs
+D:\project\Authentication\Business Layer\obj\Debug\net7.0\Business Layer.csproj.CoreCompileInputs.cache
+D:\project\Authentication\Business Layer\obj\Debug\net7.0\Business Layer.csproj.CopyComplete
+D:\project\Authentication\Business Layer\obj\Debug\net7.0\Business Layer.dll
+D:\project\Authentication\Business Layer\obj\Debug\net7.0\refint\Business Layer.dll
+D:\project\Authentication\Business Layer\obj\Debug\net7.0\Business Layer.pdb
+D:\project\Authentication\Business Layer\obj\Debug\net7.0\ref\Business Layer.dll
